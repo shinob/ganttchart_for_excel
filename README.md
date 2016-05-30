@@ -1,2 +1,10 @@
-# ganttchart_for_excel
-VBA for making gantt chart on excel
+# ガントチャートforExcel
+
+ガントチャートを描画するためのExcel用マクロです。
+
+## ソースコードについて
+
+ソースコードはExcelのVBAエディタ内で作成したものをエクスポートしたファイルです。
+そのため、ソースコード単体では動作しません。
+
+編集した場合は、同梱してあるgantt56dsrc.xlsに反映する必要があります。
